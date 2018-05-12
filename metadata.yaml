@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3745'
     url: http://www.gutenberg.org/2009/agents/3745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20866#Infantry-Drill-Regulations-United-States-Army-1911Corrected-to-April-15-1917--Changes-Nos.-1-_
 gutenberg_issued: '2007-03-20'
 gutenberg_type: Text
 identifiers:
