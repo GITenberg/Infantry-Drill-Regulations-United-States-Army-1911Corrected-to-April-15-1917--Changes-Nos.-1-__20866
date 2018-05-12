@@ -1,0 +1,31 @@
+_repo: Infantry-Drill-Regulations-United-States-Army-1911Corrected-to-April-15-1917--Changes-Nos.-1-__20866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. War Department
+    aliases:
+    - Dept., United States. War
+    - United States. War Dept.
+    - Department, U. S. War
+    - Department, United States. War
+    gutenberg_agent_id: '3745'
+    url: http://www.gutenberg.org/2009/agents/3745
+description: ''
+gutenberg_issued: '2007-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UD'
+- !lcsh 'United States. Army. Infantry -- Drill and tactics'
+title: 'Infantry Drill Regulations, United States Army, 1911
+
+  Corrected to April 15, 1917 (Changes Nos. 1 to 19)'
+url: http://www.gutenberg.org/ebooks/20866
